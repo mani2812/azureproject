@@ -1,0 +1,9 @@
+{
+	"name": "manidatafactory2",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82674d43-473e-413d-9a56-7633846191e2",
+		"tenantId": "a4f1c961-2a0d-4c29-a6e7-dba0fd1c914d"
+	}
+}
