@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "manidatafactory2"
+		},
+		"azuresql_password": {
+			"value": ""
+		},
+		"data_lake_connectionString": {
+			"value": ""
+		},
+		"azuresql_properties_typeProperties_server": {
+			"value": "manidbserver.database.windows.net"
+		},
+		"azuresql_properties_typeProperties_database": {
+			"value": "Mani_Database"
+		},
+		"azuresql_properties_typeProperties_userName": {
+			"value": "maniadmin"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
